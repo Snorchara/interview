@@ -1,0 +1,30 @@
+
+body {
+    position:absolute ; left:20%;
+    background-color: #ffc266;
+    width: 950px;
+
+            }
+h1{
+    text-align: center;
+    font-family: "Gruppo";font-size: 35px;
+}
+p{
+     text-align: center;
+    font-family: "Gruppo";font-size: 25px;
+}
+.button {
+ font-family: "Gruppo";font-size: 35px;
+  text-decoration: none;
+  background-color: #99cc00;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+li{
+     text-align: left;
+    font-family: "Gruppo";font-size: 25px;  font-weight: bold;
+}
